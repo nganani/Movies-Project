@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 In order to run the website on your local machine, you will need the following:
 - Install [Python](https://www.python.org/). Should be preinstalled for Mac users. Run ```python --version``` on your terminal (Mac) or Command Prompt (Windows) to verify
 - Clone or download this repository to your machine. For example: ```git clone https://github.com/nganani/Movies-Project```
-- On terminal/command prompt, move to the newly created folder 'Movies-Project', using ``cd Movies-Project```
+- On terminal/command prompt, move to the newly created folder 'Movies-Project', using ```cd Movies-Project```
 - Using ```ls``` (Mac), or ```dir``` (Windows), ensure the folder contains the following files:
 
 ```
@@ -22,9 +22,11 @@ media.py
 README.md
 ```
 
-## Running the tests
+### Running the site
 
-Explain how to run the automated tests for this system
+In order to test run the movie site, run ```python entertainment_center.py``` while you are in the ```Movies-Project``` folder. 
+
+Your default browser should open with the following page showing:
 
 ### Break down into end to end tests
 
@@ -42,23 +44,14 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* [Sublime Text 3](https://www.sublimetext.com/) - Text/Code Editor
+* [Python](https://www.python.org/) - Programming language
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/nganani/Movies-Project/tags). 
 
 ## Authors
 
@@ -69,10 +62,10 @@ See also the list of [contributors](https://github.com/nganani/Movies-Project/co
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Nir Ganani](https://github.com/nganani) has waived all copyright and related or neighboring rights to his part of the work.
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Many thanks to Adarsh and Udemy for creating this course and the supporting materials
