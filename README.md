@@ -1,6 +1,6 @@
-# Movie Web Site - Udacity Project
+# Movie Website - Udacity Project
 
-One Paragraph of project description goes here
+The Movies Website is a single page, dynamic web page showing some of my favorite movies, featuring six tiles that play movie trailer one clicked. The website was developed as part of Udacity's full stack web developer nanodegree program. 
 
 ## Getting Started
 
@@ -8,7 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+In order to run the website on your machine, you will need the following:
+- [Python](https://www.python.org/) installed. Should be pre-installed for Mac users
 
 ```
 Give examples
