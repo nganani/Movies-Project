@@ -28,21 +28,7 @@ In order to test run the movie site, run ```python entertainment_center.py``` wh
 
 Your default browser should open with the following page showing:
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+![Movie Page - 6 tiles](https://github.com/nganani/Movies-Project/blob/master/Movie-Project-1.png "My Movies Page")
 
 ## Built With
 
