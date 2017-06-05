@@ -22,6 +22,7 @@ media.py
 Movie-Project-1.png
 README.md
 ```
+Please note that ```.gitignore``` may not show up, as on Mac OS-X for example, files starting with ```.``` are hidden by default
 
 ### Running the site
 
