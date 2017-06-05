@@ -19,6 +19,7 @@ In order to run the website on your local machine, you will need the following:
 entertainment_center.py
 fresh_tomatoes.py
 media.py
+Movie-Project-1.png
 README.md
 ```
 
