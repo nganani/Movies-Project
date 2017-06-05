@@ -12,7 +12,7 @@ In order to run the website on your machine, you will need the following:
 - Install [Python](https://www.python.org/). Should be preinstalled for Mac users. Run ```python --version``` on your terminal (Mac) or Command Prompt (Windows) to verify
 - Clone or download this repository to your machine. For example: ```git clone https://github.com/nganani/Movies-Project```
 - On terminal/command prompt, move to the newly created folder 'Movies-Project', using ``cd Movies-Project```
-- Using ``ls``` (Mac), or ``dir``` (Windows), ensure the folder contains the following files:
+- Using ```ls``` (Mac), or ```dir``` (Windows), ensure the folder contains the following files:
 
 ```
 .gitignore
