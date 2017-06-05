@@ -26,7 +26,7 @@ Please note that ```.gitignore``` may not show up, as on Mac OS-X for example, f
 
 ### Running the site
 
-In order to test run the movie site, run ```python entertainment_center.py``` while you are in the ```Movies-Project``` folder. 
+In order to test run the movie site, run ```python entertainment_center.py``` while you are in the ```Movies-Project``` folder, using Mac's terminal or Windows' command prompt. 
 
 Your default browser should open with the following page showing:
 
