@@ -4,11 +4,11 @@ The Movies Website is a single page, dynamic web page showing some of my favorit
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine.
 
-### Prerequisites
+### Installing
 
-In order to run the website on your machine, you will need the following:
+In order to run the website on your local machine, you will need the following:
 - Install [Python](https://www.python.org/). Should be preinstalled for Mac users. Run ```python --version``` on your terminal (Mac) or Command Prompt (Windows) to verify
 - Clone or download this repository to your machine. For example: ```git clone https://github.com/nganani/Movies-Project```
 - On terminal/command prompt, move to the newly created folder 'Movies-Project', using ``cd Movies-Project```
@@ -21,24 +21,6 @@ fresh_tomatoes.py
 media.py
 README.md
 ```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
@@ -80,9 +62,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Adarsh Nair** - *Initial work* - [FreshTomatoes](https://github.com/adarsh0806/ud036_StarterCode)
+* **Nir Ganani** - *Project Work* - [This Project](https://github.com/nganani/Movies-Project)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/nganani/Movies-Project/contributors) who participated in this project.
 
 ## License
 
