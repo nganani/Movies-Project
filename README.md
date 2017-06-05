@@ -1,4 +1,4 @@
-# Project Title
+# Movie Web Site - Udacity Project
 
 One Paragraph of project description goes here
 
