@@ -41,9 +41,5 @@ the_martian = media.Movie(
 # Create movies array
 movies = [toy_story, avatar, pretty_woman, inside_out, spotlight, the_martian]
 
-# open_movies_page(movies)
-print media.Movie.__doc__  # whatever i defined in the class in triple quotes
-print media.Movie.__name__  # the name of the class
-
-# the module, or filename (without the .py) of the class
-print media.Movie.__module__
+# Create and open movie page
+open_movies_page(movies)
