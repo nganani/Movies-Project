@@ -32,6 +32,18 @@ Your default browser should open with the following page showing:
 
 ![Movie Page - 6 tiles](https://github.com/nganani/Movies-Project/blob/master/Movie-Project-1.png "My Movies Page")
 
+## Known issues
+
+Mac users only: Even though the default browser opens and everything is working fine, you may notice a error when you go back to the terminal saying something like: 
+
+    $ python entertainment_center.py 
+    0:95: execution error: "file:///Users/your-username/.../Movies-Project/fresh_tomatoes.html" doesn’t understand the “open location” message. (-1708)
+
+
+```x:y: execution error: "file:///Users/.../fresh_tomatoes.html" doesn’t understand the “open location” message. (-1708)```
+
+This is a known issue, probably caused due to 'problem in the Python standard library and with its interaction with the macOS latest updates'. see [here](https://github.com/jupyter/notebook/issues/2438) for more info.
+
 ## Built With
 
 * [Sublime Text 3](https://www.sublimetext.com/) - Text/Code Editor
