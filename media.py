@@ -1,13 +1,14 @@
-import webbrowser
+import webbrowser  # Allow opening web browser with our page
 
 
 class Movie():
     # Documentation for the class is done in triple quotes:
-    """ Class to store movie related data, play trailer and potentially much more. 
+    """ Class to store movie related data, play trailer and potentially much
+    more.
 
     Attributes:
         title (str): Title of the movie
-        storyline (str): Movie storyline 
+        storyline (str): Movie storyline
         poster_image_url (str): URL to Movie poster picture (jpg or other)
         trailer_youtube_url (str): YouTUBE video URL featuring movie trailer
 
