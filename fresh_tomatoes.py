@@ -86,7 +86,8 @@ main_page_head = '''
 '''
 
 
-# The main page layout and title bar
+# The main page layout and title bar.
+# Nir> added alt text for the 'x' icon for better HTML design
 main_page_content = '''
   <body>
     <!-- Trailer Video Modal -->
